@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test slide on libalpaca</title>
+    <link>https://alpacatech.github.io/</link>
+    <description>Recent content in Test slide on libalpaca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jul 2017 13:22:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://alpacatech.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test slide</title>
+      <link>https://alpacatech.github.io/slideshow/</link>
+      <pubDate>Sun, 09 Jul 2017 13:22:48 -0400</pubDate>
+      
+      <guid>https://alpacatech.github.io/slideshow/</guid>
+      <description>Alpaca What is Alpaca? Alpaca is a PROS robot code framework to make it easier to get a robot up and running, quickly and efficiently, with as many features as possible right away.
+How do I use it? A wiki, tutorials, and such will be coming soon!
+Contributing Who can conrtibue? YOU can and should contribute to the development of this project.
+How? You can contribute to Alpaca by joining the Alpaca Tech organization, and if you aren&amp;rsquo;t coding with us, then you can test new features!</description>
+    </item>
+    
+  </channel>
+</rss>
